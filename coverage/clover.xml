@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1777711696235" clover="3.2.0">
+  <project timestamp="1777711696236" name="All files">
+    <metrics statements="28" coveredstatements="28" conditionals="4" coveredconditionals="4" methods="11" coveredmethods="11" elements="43" coveredelements="43" complexity="0" loc="28" ncloc="28" packages="1" files="3" classes="3"/>
+    <file name="Hero.tsx" path="E:\Project\Election-Process-Education-1\src\components\Hero.tsx">
+      <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3"/>
+      <line num="4" count="1" type="stmt"/>
+      <line num="5" count="2" type="stmt"/>
+      <line num="11" count="24" type="stmt"/>
+      <line num="57" count="1" type="stmt"/>
+    </file>
+    <file name="LanguageSelector.tsx" path="E:\Project\Election-Process-Education-1\src\components\LanguageSelector.tsx">
+      <metrics statements="19" coveredstatements="19" conditionals="4" coveredconditionals="4" methods="6" coveredmethods="6"/>
+      <line num="5" count="2" type="stmt"/>
+      <line num="20" count="2" type="stmt"/>
+      <line num="21" count="3" type="cond" truecount="2" falsecount="0"/>
+      <line num="22" count="1" type="stmt"/>
+      <line num="23" count="1" type="stmt"/>
+      <line num="25" count="2" type="stmt"/>
+      <line num="26" count="2" type="stmt"/>
+      <line num="30" count="2" type="stmt"/>
+      <line num="31" count="6" type="stmt"/>
+      <line num="33" count="6" type="stmt"/>
+      <line num="34" count="3" type="stmt"/>
+      <line num="35" count="3" type="stmt"/>
+      <line num="37" count="3" type="stmt"/>
+      <line num="38" count="3" type="stmt"/>
+      <line num="39" count="2" type="stmt"/>
+      <line num="40" count="2" type="stmt"/>
+      <line num="44" count="6" type="stmt"/>
+      <line num="73" count="36" type="stmt"/>
+      <line num="75" count="3" type="stmt"/>
+    </file>
+    <file name="VoterRegistration.tsx" path="E:\Project\Election-Process-Education-1\src\components\VoterRegistration.tsx">
+      <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+      <line num="4" count="1" type="stmt"/>
+      <line num="37" count="1" type="stmt"/>
+      <line num="38" count="1" type="stmt"/>
+      <line num="76" count="5" type="stmt"/>
+      <line num="77" count="5" type="stmt"/>
+    </file>
+  </project>
+</coverage>
