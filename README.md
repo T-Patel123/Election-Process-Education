@@ -10,7 +10,7 @@
 
 <br/>
 
-<p><strong>🌐 Live URL:</strong> [http://electionprocesseducation.vercel.app](https://election-process-education-sable.vercel.app/)/</p>
+<p><strong>🌐 Live URL:</strong> https://election-process-education-sable.vercel.app</p>
 
 <br/>
 
