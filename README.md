@@ -14,9 +14,9 @@
 
 <br/>
 
-[![Live Demo](https://img.shields.io/badge/LIVE%20DEMO-%23FF6B35?style=for-the-badge&logoColor=white)](https://github.com/harshshirke66/Election-Process-Education)
+[![Live Demo](https://img.shields.io/badge/LIVE%20DEMO-%23FF6B35?style=for-the-badge&logoColor=white)](https://github.com/T-Patel123/Election-Process-Education)
 [![MIT License](https://img.shields.io/badge/MIT%20LICENSE-%2300C896?style=for-the-badge)](./LICENSE)
-[![Report Bug](https://img.shields.io/badge/REPORT%20BUG-%23FF3366?style=for-the-badge)](https://github.com/harshshirke66/Election-Process-Education/issues)
+[![Report Bug](https://img.shields.io/badge/REPORT%20BUG-%23FF3366?style=for-the-badge)](https://github.com/T-Patel123/Election-Process-Education/issues)
 
 <br/>
 
